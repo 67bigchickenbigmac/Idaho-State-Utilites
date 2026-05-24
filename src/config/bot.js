@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Idaho State Roleplay | Pre Release",
+        name: "Idaho State Roleplay | Pre Release https://discord.gg/dKUSsNzn",
         // Activity type number (0 = Playing).
         type: 0, 
       },
